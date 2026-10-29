@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutt22007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Full-Stack-Web-Framework/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Full-Stack-Web-Framework?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Full-Stack-Web-Framework/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Full-Stack-Web-Framework?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Full-Stack-Web-Framework/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Full-Stack-Web-Framework?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -51,9 +51,9 @@ Cloud platforms, PaaS, and edge compute providers tailored for hosting, deployin
 
 ## 🛠️ Open-Source Full-Stack Frameworks
 
-Production-ready open-source full-stack frameworks, meta-frameworks, and server-rendered application stacks. Sorted by GitHub Stars (descending).
+Production-ready open-source full-stack frameworks, meta-frameworks, and server-rendered application stacks. Sorted by GitHub_Stars (descending).
 
-| Framework | GitHub Stars | Primary Language / Runtime | Core Architecture & Key Strengths |
+| Framework | GitHub_Stars | Primary Language / Runtime | Core Architecture & Key Strengths |
 | :--- | :--- | :--- | :--- |
 | **[Next.js](https://github.com/vercel/next.js)** | [![Stars](https://img.shields.io/github/stars/vercel/next.js?style=social&color=white)](https://github.com/vercel/next.js/stargazers) | TypeScript / React / Node.js | Industry-standard React meta-framework featuring App Router, React Server Components (RSC), Server Actions, Turbopack, and hybrid static/dynamic generation. |
 | **[FastAPI](https://github.com/fastapi/fastapi)** | [![Stars](https://img.shields.io/github/stars/fastapi/fastapi?style=social&color=white)](https://github.com/fastapi/fastapi/stargazers) | Python | Ultra-fast modern Python ASGI web framework based on standard Python type hints, Pydantic data validation, automatic OpenAPI/Swagger docs, and high-performance async execution. |
@@ -114,9 +114,9 @@ Your support keeps this guide fresh, accurate, and actively maintained! 🙌
 Contributions are welcome! Please follow these guidelines:
 
 1. Fork the repository.
-2. Ensure new framework submissions have at least 1,000+ GitHub stars or notable industry adoption.
-3. Include the framework's official link, primary runtime, GitHub star badge (`style=social&color=white`), and an objective architectural description.
-4. Keep table rows sorted by the specified sorting criteria (Valuation for SaaS, Stars for OSS).
+2. Ensure new framework submissions have at least 1,000+ GitHub_Stars or notable industry adoption.
+3. Include the framework's official link, primary runtime, GitHub Stars_Badge (`style=social&color=white`), and an objective architectural description.
+4. Keep table rows sorted by the specified sorting criteria (Valuation for SaaS, GitHub_Stars for OSS).
 5. Submit a pull request with a clear description of the addition.
 
 ---
