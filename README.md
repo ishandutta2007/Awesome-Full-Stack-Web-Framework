@@ -115,7 +115,7 @@ Contributions are welcome! Please follow these guidelines:
 
 1. Fork the repository.
 2. Ensure new framework submissions have at least 1,000+ GitHub_Stars or notable industry adoption.
-3. Include the framework's official link, primary runtime, GitHub Stars_Badge (`style=social&color=white`), and an objective architectural description.
+3. Include the framework's official link, primary runtime, GitHub_Stars_Badge (`style=social&color=white`), and an objective architectural description.
 4. Keep table rows sorted by the specified sorting criteria (Valuation for SaaS, GitHub_Stars for OSS).
 5. Submit a pull request with a clear description of the addition.
 
